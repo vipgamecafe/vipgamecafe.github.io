@@ -94,10 +94,6 @@
         text-align: center;
     }
 
-    .social_box {
-        filter: invert(100%);
-    }
-
 }
 
 @media (max-width: 856px) {
